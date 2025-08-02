@@ -22,7 +22,7 @@ UIHider allows you to easily toggle the visibility of various UI elements in Wor
 ## Installation
 
 1. Download the `UIHider` addon folder.
-2. Place the folder into your World of Warcraft installation directory under:
+2. Place the folder into your World of Warcraft installation directory under: Interface/Addons
 3. Launch the game and ensure the addon is enabled from the AddOns menu at the character select screen.
 
 ---

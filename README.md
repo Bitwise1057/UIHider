@@ -40,6 +40,6 @@ Access the Addon Options menu from the in-game Interface options to customize yo
 
 ## Contributing
 
-Contributions, bug reports, and feature requests are welcome! Feel free to open issues or submit pull requests.
+Bug reports, and feature requests are welcome! Feel free to open issues.
 
 ---

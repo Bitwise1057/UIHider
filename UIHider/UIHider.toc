@@ -1,14 +1,15 @@
 ## Interface: 110107, 110200
 ## Title: UIHider
 ## Notes: Temporarily hide selected UI elements with config panel
-## Author: Bitwise1057
+## Author: VfX (Bitwise1057)
 ## Version: 1.0
 
-Libs\Ace3\AceAddon-3.0\AceAddon-3.0.xml
-Libs\Ace3\AceGUI-3.0\AceGUI-3.0.xml
-Libs\Ace3\AceConfig-3.0\AceConfig-3.0.xml
-Libs\Ace3\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
 
 UIHider.lua
 UIHiderOptions.lua
+
 
